@@ -1,0 +1,13 @@
+C:\Users\Heng\Desktop\project6\PPMImageEditor\PPMImageEditor\bin\Debug\PPMImageEditor.exe.config
+C:\Users\Heng\Desktop\project6\PPMImageEditor\PPMImageEditor\bin\Debug\PPMImageEditor.exe
+C:\Users\Heng\Desktop\project6\PPMImageEditor\PPMImageEditor\bin\Debug\PPMImageEditor.pdb
+C:\Users\Heng\Desktop\project6\PPMImageEditor\PPMImageEditor\bin\Debug\FSharp.Core.dll
+C:\Users\Heng\Desktop\project6\PPMImageEditor\PPMImageEditor\bin\Debug\PPMImageLibrary.dll
+C:\Users\Heng\Desktop\project6\PPMImageEditor\PPMImageEditor\bin\Debug\PPMImageLibrary.pdb
+C:\Users\Heng\Desktop\project6\PPMImageEditor\PPMImageEditor\bin\Debug\PPMImageLibrary.xml
+C:\Users\Heng\Desktop\project6\PPMImageEditor\PPMImageEditor\obj\Debug\PPMImageEditor.csprojResolveAssemblyReference.cache
+C:\Users\Heng\Desktop\project6\PPMImageEditor\PPMImageEditor\obj\Debug\PPMImageEditor.Form1.resources
+C:\Users\Heng\Desktop\project6\PPMImageEditor\PPMImageEditor\obj\Debug\PPMImageEditor.Properties.Resources.resources
+C:\Users\Heng\Desktop\project6\PPMImageEditor\PPMImageEditor\obj\Debug\PPMImageEditor.csproj.GenerateResource.Cache
+C:\Users\Heng\Desktop\project6\PPMImageEditor\PPMImageEditor\obj\Debug\PPMImageEditor.exe
+C:\Users\Heng\Desktop\project6\PPMImageEditor\PPMImageEditor\obj\Debug\PPMImageEditor.pdb
